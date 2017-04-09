@@ -1,4 +1,4 @@
-# redit api design using es6
+# nodejs api design using es6
 
 Steps to get Started
 
